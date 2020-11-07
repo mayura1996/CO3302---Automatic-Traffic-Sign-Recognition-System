@@ -1,0 +1,7 @@
+Full files are avaialble at https://github.com/mayura1996/CO3302---Automatic-Traffic-Sign-Recognition-System.git
+
+Please do not delete the example.txt file. It connects the audio detector. 
+
+Please change the paths of the GUI.py according to your device
+
+- Mayura Manawadu

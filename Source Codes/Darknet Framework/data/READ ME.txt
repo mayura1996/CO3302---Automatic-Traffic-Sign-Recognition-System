@@ -1,0 +1,5 @@
+data are avaialble at https://github.com/mayura1996/CO3302---Automatic-Traffic-Sign-Recognition-System.git
+
+or you can insert a video of your own to this folder
+
+- Mayura Manawadu
