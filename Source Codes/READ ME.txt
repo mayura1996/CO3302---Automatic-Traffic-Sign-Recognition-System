@@ -1,12 +1,4 @@
-Plese check my github repository for the full Source Code
-
-username : mayura1996
-
-https://github.com/mayura1996/CO3302---Automatic-Traffic-Sign-Recognition-System.git
-
-Please change the paths of the GUI.py according to your device
-
-example.txt in the Darknet Framework Folder connects the audio narrator to the GUI.py file
+Open the Darknet Framework and follow the steps provided in installation manual to run the detector
 
 
 - Mayura Manawadu
