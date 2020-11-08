@@ -1,4 +1,4 @@
-Open the Darknet Framework and follow the steps provided in installation manual to run the detector
+Open the Darknet Framework folder and follow the steps provided in installation manual to run the detector
 
 
 - Mayura Manawadu
