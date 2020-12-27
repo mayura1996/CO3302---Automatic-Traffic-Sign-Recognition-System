@@ -69,4 +69,4 @@ $ ./darknet detector demo cfg/ts_data.data cfg/Traffic_test_pipeline.cfg weights
 
 MIT
 
- # © Mayura Manawadu | 1/ENG/072 | EN 86191
+ # © Mayura Manawadu | 17/ENG/072 | EN 86191
