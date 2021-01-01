@@ -1,4 +1,4 @@
-# CO3302 Automatic Traffic Sign Recognition System
+# CO3302 - Automatic Traffic Sign Recognition System
 
 Automatic Traffic Sign Recognition System Detects traffic signs realtime with a 65 FPS speed and with a mean average precision of 64.1%. The system is built on top of YOLOv4 network.
 
